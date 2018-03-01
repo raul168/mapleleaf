@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xBeans>
+    <xBean className="org.xdog.mapleleaf.context.XBean" name="lzw">
+        <map>
+            <entry>
+                <key>name</key>
+                <value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">dadoubi</value>
+            </entry>
+        </map>
+    </xBean>
+</xBeans>
